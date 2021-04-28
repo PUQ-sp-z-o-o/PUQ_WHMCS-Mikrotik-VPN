@@ -43,10 +43,11 @@ Mikrotik: CHR 7.1beta5 (development)
 - Assigned IP Addresses: pool of IP address for VPN users
 - Username: Mikrotik admin user
 - Password: Mikrotik admin user password
+- Port 443 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! if not working 8729
 
 
 3. Create a new Products/Services
-- Module Settings/Module Name: puqMikrotikVPN
+- Module Settings/Module Name: PUQ Mikrotik VPN
 
 ### Mikrotik part setup guide
 Enabling HTTPS
