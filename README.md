@@ -39,8 +39,8 @@ Mikrotik: CHR 7.1beta5 (development)
 
 2. Create new server Mikrotik in WHMCS (System Settings->Products/Services->Servers)  
 - Hostname: Mikrotik DNS (vpn.xxxxx.xxx)
-- Module: puqMikrotikVPN
-- Assigned IP Addresses: pool of IP address for VPN users
+- Module: PUQ Mikrotik VPN
+- Assigned IP Addresses: pool of IP address for VPN users (One per line)	
 - Username: Mikrotik admin user
 - Password: Mikrotik admin user password
 - Port 443 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! if not working 8729
