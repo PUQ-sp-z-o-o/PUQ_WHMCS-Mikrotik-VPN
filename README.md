@@ -30,7 +30,7 @@ Testing:
 
 WHMCS: 8.1.3
 
-Mikrotik: CHR 7.1beta5 (development)
+Mikrotik: CHR 7.3.1
 
 --------------------------------------------------------------
 ### WHMCS part setup guide
@@ -43,7 +43,7 @@ Mikrotik: CHR 7.1beta5 (development)
 - Assigned IP Addresses: pool of IP address for VPN users (One per line)	
 - Username: Mikrotik admin user
 - Password: Mikrotik admin user password
-- Port 443 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! if not working 8729
+- Port 443 (not 8729)
 
 
 3. Create a new Products/Services
