@@ -7,7 +7,7 @@
  +-----------------------------------------------------------------------------------------+
  | Author: Ruslan Poloviy ruslan.polovyi@puq.pl                                            |
  | Warszawa 04.2021 PUQ sp. z o.o. www.puq.pl                                              |
- | version: 1.1                                                                            |
+ | version: 1.1.1                                                                            |
  +-----------------------------------------------------------------------------------------+
 */
 function puqMikrotikVPN_MetaData()
